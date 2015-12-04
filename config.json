@@ -1,0 +1,16 @@
+{
+  "siren":{
+    "shortKey": "s",
+    "action": "get",
+    "number": 1,
+    "forceString": true,
+    "defaultValue": false
+  },
+  "nic":{
+    "shortKey": "n",
+    "action": "get",
+    "number": 1,
+    "forceString": true,
+    "defaultValue": false
+  }
+}
